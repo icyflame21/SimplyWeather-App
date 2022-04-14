@@ -50,11 +50,11 @@ No External Libraries has been used.
 
 UI on Loading
 
-![Logo](https://images2.imgbox.com/67/d4/tjprjV34_o.jpg)
+![Logo](https://images2.imgbox.com/4a/c1/r4Rlt7g4_o.jpg)
 
 Searched Result UI
 
-![Logo](https://images2.imgbox.com/45/47/iVlYAKg3_o.jpg)
+![Logo](https://images2.imgbox.com/99/34/iX7Cbnna_o.jpg)
 
 Error Page
 
