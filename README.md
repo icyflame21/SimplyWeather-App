@@ -35,6 +35,7 @@ No External Libraries has been used.
 - User is notified with current date and time.
 - Integration with google maps to render location results.
 - Alterations of background images as per city's name.
+- Appropriate error image fetched from Unsplash is mount onto UI if city name doesn't exist.
 
 ## Responsibilities 💪
 
