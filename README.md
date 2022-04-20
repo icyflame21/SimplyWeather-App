@@ -41,7 +41,7 @@ No External Libraries has been used.
 
 - Making search bar in sync with key-press events 
 - OpenWeather API is integrated in such a way that it fetch results for a daily limit of 50k with a clear status.
-- It won't be matter of concern for the API how many simultaneous calls with different endpoints were made.
+- It won't be matter of concern for the API in how many simultaneous calls with different endpoints were made.
 - Alignment of Current city status, weekly status, geolocation status in a container card is done as per using flex properties.
 
 
