@@ -3,7 +3,7 @@
 
 This Weather App provides weather data for any searched city and also for the user's current location.
 
-A solo project executed in 2 days.
+A solo project executed in 2 days.No External Libraries has been used.
 
 
 ![Logo](https://s3.amazonaws.com/www-inside-design/uploads/2018/05/weather-app-4_feature.jpg)
@@ -19,7 +19,7 @@ A solo project executed in 2 days.
 - HTML5
 - CSS3
 - JAVASCRIPT
-No External Libraries has been used.
+
 
 ## API Used ✅
 
